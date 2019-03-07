@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="Bangladesh_Button">Bangladesh</string>
+    <string name="India_Button">India</string>
+    <string name="Pakistan_Button">Pakistan</string>
+
+    <string name="title_Txt">This is a Title</string>
+    <string name="message_Txt">Do You Want To Exit ? </string>
+
+    <string name="Bangladesh_Text">
+        Government :	Unitary parliamentary republic \n
+       . President : Abdul Hamid \n
+       . Prime Minister : Sheikh Hasina \n
+       . House Speaker : Dr. Shrin Choudhory \n
+       . Chief Justice : Syed Mahmud Hossain \n
+
+    </string>
+    <string name="India_Text">
+Government	 : Federal parliamentary republic \n
+• President  :Ram Nath Kovind \n
+• Vice President : Venkaiah Naidu \n
+• Prime Minister : Narendra Modi \n
+• Chief Justice : Ranjan Gogoi \n
+• Speaker of the Lok Sabha : Sumitra Mahajan \n
+    </string>
+    <string name="Pakistan_Text">
+        Government :	Federal parliamentary constitutional republic \n
+        • President : Arif Alvi \n
+• Prime Minister : Imran Khan \n
+• Chairman of the Senate : Sadiq Sanjrani \n
+• Speaker of the National Assembly : Asad Qaiser \n
+• Chief Justice : Asif Saeed Khan Khosa \n
+    </string>
+
+</resources>
